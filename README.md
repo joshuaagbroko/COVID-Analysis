@@ -1,5 +1,7 @@
 COVID Data Analysis Project
+
 Overview
+
 This project involves analyzing COVID-19 data using SQL queries, visualizing the results in Tableau, and creating a dashboard for insights. The dataset used contains information about COVID-19 cases, deaths, and other related metrics.
 
 Project Structure
